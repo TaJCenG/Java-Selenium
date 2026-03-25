@@ -1,0 +1,25 @@
+---------------------Steps i used to push the code----------------------------
+
+git init
+
+git add .
+
+git commit -m "commit message"
+
+git branch -M main
+
+git remote add origin "repository link"
+
+git push -u origin main
+
+
+-----------------IF WE DID CHANGES AND WANT TO PUSH THOSE NEW--------------------
+git add file
+
+git commit -m "commit message"
+
+git push origin "BRANCH NAME"
+
+----------------------STEPS TO RECOVER IF DELETED--------------------------------
+git status
+git restore PACKAGEO-OR-FILE-OR-
